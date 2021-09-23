@@ -1,4 +1,4 @@
-The goal of this project was to take a subset of data from the "Million Song Dataset" along with an event similator (see github page for a description: https://github.com/Interana/eventsim) and create an Extract, Transform, Load (ETL) file to process the raw data into a star schema relational database.
+The goal of this project was to take a subset of data from the "Million Song Dataset" along with an event similator (see github page for a description: https://github.com/Interana/eventsim) and create an Extract, Transform, Load (ETL) file to process the raw data into a star schema relational database. This code was developed while taking the Udacity nanodegree, "Data Engineering". 
 
 This process was taken in three main steps which are described below:
 
